@@ -1,0 +1,6 @@
+hi
+manish
+world
+
+:wq
+
